@@ -1,0 +1,102 @@
+
+
+
+.header-section{
+	background-color:#0099FF;
+	font-size:3.5vmax;
+	padding-top: 1vmax;
+	padding-left: 1.5vmax;
+	padding-right: 1.5vmax;
+	
+}
+.text-center{
+
+
+height:1em;
+width:10em;
+border-radius:5%;
+	background-color: black;
+	color:white;
+}
+
+.name
+{
+	color:white;
+}
+
+.new
+{
+	border: .5vmax solid black;
+}
+
+.desination{
+	color: #181818;
+}
+.footer-section{
+	
+	padding-left: 2vmax;
+	padding-right: 2vmax;
+	background-color: #0099FF;
+
+	
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+p{
+
+	position: relative;
+	left:5vmax;
+}
+.link{
+font-size: 1.8vh;
+padding-left: 1.3vmax;
+	padding-right: 1.3vmax;
+	color:black;
+
+	
+
+	
+}
+a:hover{
+
+	
+text-decoration: underline;
+	color:white;
+	background-color: white;
+}
+.skills-section{
+
+
+	background-color: white;
+	
+}
+
+
+
+.experience-section{
+	font-size:3vmax;
+	background-color: white;
+    
+
+
+}
+.education-section{
+	font-size:3vmax;
+	background-color: white;
+	
+
+}
+.training-section{
+	background-color: white;
+	font-size:2vmax;
+
+}
+.aboutme-section{
+	font-size:3vmax;
+	background-color: white;
+	line-height: .5vmax;
+	}
+
+
